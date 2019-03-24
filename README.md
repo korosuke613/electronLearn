@@ -1,4 +1,7 @@
 # electronによるテキストエディタ
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/korosuke613/electronLearn.svg)](https://greenkeeper.io/)
+
 electronの練習で作成。
 
 ### 注意
