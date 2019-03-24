@@ -1,0 +1,9 @@
+{
+  "groups": {
+    "default": {
+      "packages": [
+        "learn_editor/package.json"
+      ]
+    }
+  }
+}
